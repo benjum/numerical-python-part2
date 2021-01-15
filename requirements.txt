@@ -3,3 +3,4 @@ scipy
 matplotlib
 ipywidgets
 pandas
+imageio
